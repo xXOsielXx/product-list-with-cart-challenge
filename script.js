@@ -1,6 +1,6 @@
 async function populate() {
     const requestURL =
-      "http://127.0.0.1:5500/data.json";
+      "https://github.com/xXOsielXx/product-list-with-cart-challenge/data.json";
     const request = new Request(requestURL);
   
     const response = await fetch(request);

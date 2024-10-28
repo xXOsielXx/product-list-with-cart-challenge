@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-list-with-cart-using-a-json-data-file-qOjmhjKoE4
 - Live Site URL: https://xxosielxx.github.io/product-list-with-cart-challenge
 
 ## My process
